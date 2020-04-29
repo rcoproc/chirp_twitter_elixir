@@ -6,7 +6,7 @@ By Chris McCord - Phoenix Blog
 
 [Phoenix Blog](https://www.phoenixframework.org/blog/build-a-real-time-twitter-clone-in-15-minutes-with-live-view-and-phoenix-1-5?utm_source=elixirdigest&utm_medium=email&utm_campaign=252)
 
-| Tela Timeline  | Tela Post component |
+| Timeline page  | Post form page |
 |---| ---|
 | ![](https://github.com/rcoproc/chirp_twitter_elixir/blob/master/images/screen1.png?raw=true) | ![](https://github.com/rcoproc/chirp_twitter_elixir/blob/master/images/screen2.png?raw=true) |
 
