@@ -2,7 +2,7 @@
 
 By Chris McCord
 
-![ Youtube ](https://youtu.be/MZvmYaFkNJI)
+[Youtube](https://youtu.be/MZvmYaFkNJI)
 
 | Tela Timeline  | Tela Post component |
 |---| ---|
