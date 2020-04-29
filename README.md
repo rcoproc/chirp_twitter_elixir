@@ -2,7 +2,11 @@
 
 By Chris McCord
 
-!(Youtub)[https://youtu.be/MZvmYaFkNJI]
+![ Youtube ](https://youtu.be/MZvmYaFkNJI)
+
+| Tela Timeline  | Tela Post component |
+|---| ---|
+| ![](https://github.com/rcoproc/chirp_twitter_elixir/blob/master/images/screen1.png?raw=true) | ![](https://github.com/rcoproc/chirp_twitter_elixir/blob/master/images/screen2.png?raw=true) |
 
 To start your Phoenix server:
 
