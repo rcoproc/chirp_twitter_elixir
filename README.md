@@ -1,8 +1,10 @@
 # Chirp - Build a real-time Twitter clone in 15 minutes
 
-By Chris McCord
+By Chris McCord - Phoenix Blog
 
 [Youtube](https://youtu.be/MZvmYaFkNJI)
+
+[Phoenix Blog](https://www.phoenixframework.org/blog/build-a-real-time-twitter-clone-in-15-minutes-with-live-view-and-phoenix-1-5?utm_source=elixirdigest&utm_medium=email&utm_campaign=252)
 
 | Tela Timeline  | Tela Post component |
 |---| ---|
